@@ -1,0 +1,16 @@
+file_type: csv
+dataset_name: testfile
+file_path: C:/Users/estal/OneDrive/Desktop/DataGlacier/Week6/food_price_index_sep_2022
+table_name: prices
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - series_reference
+    - period
+    - data_value
+    - status
+    - units
+    - subject
+    - group
+    - series_title_1
